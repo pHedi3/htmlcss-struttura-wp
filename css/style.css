@@ -5,7 +5,7 @@
 }
 
 /* class utility */
-.clearfix{
+.clearfix:after{
     content: "";
     display: table;
     clear: both;
@@ -23,7 +23,6 @@
 
 .w100{
     width: 100%;
-
 }
 
 
